@@ -1,0 +1,48 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+*.iws
+
+# Log and cache files
+*.log
+*.tmp
+*.cache
+
+# Keystore files
+*.jks
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Kotlin specific
+*.kotlin_module
+
+# Captures from Android Studio
+captures/
+
+# NDK
+obj/
+.externalNativeBuild/
+.cxx/
+
+# Lint/intermediate files
+lint/intermediates/
+lint/generated/
+
+# Signing config (if not in local.properties)
+signing.properties
